@@ -10,6 +10,7 @@
 # Weekly Breakdown
 
 - Week 1
+  - The file system
   - The Java ecosystem
     - JDKs, JVMs, JREs -- that's a lot of letters
   - basic building blocks
@@ -63,13 +64,9 @@
   - Tuesday
     - Continuation of OOP
     - Interfaces
-      - `Iterator`
-      - `Iterable`
-  - Wednesday
-    - Continuation of Interfaces
+      - `Iterator` and `Iterable`
     - Nested Classes
-  - Thursday 
-    - exceptions
+    - exceptions*
     - file I/O  
 - Week 5
   - HTML
@@ -82,8 +79,7 @@
   - JSON and RESTful APIs
 - Week 7
   - Dependency injection
-    - Test doubles
-    - Testing with mocks (Schools of TDD)
+  - Test doubles / Mockito*
   - MVC
     - Spring MVC
   - Spring Boot
@@ -95,13 +91,15 @@
  - Java Persistence API (JPA)
     - Spring Data
 - Week 9
-  - floating / extension topics
-  - advanced practice
+  - Floating / extension topics
+  - Advanced practice
 - Weeks 10-12
   - Scrum
   - Final Project
 
-## Floating/Extension Topics
+**floating/extension topics*
+
+## Additional Floating/Extension Topics
 - Other types
   - BigDecimal
   - Date
