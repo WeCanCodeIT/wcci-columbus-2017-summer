@@ -9,35 +9,57 @@
 
 # Weekly Breakdown
 
+### Week 1
 - Variables, Operators, Expressions, Basic Types
 - Conditionals
 - Strings and Text Processing
-  - *Regular Expressions**
+  - Regular Expressions*
+
+### Week 2
 - Arrays
 - Loops
 - Intro to OOP
 - Building Classes - Methods and Attributes
-- *Unit Testing/TDD (Junit)**
+- Unit Testing/TDD (Junit)*
+
+### Week 3
 - Collections Overview (*Iterables/Iterators)
 - Lists
 - Maps
 - Inheritance & Polymorphism
+
+### Week 4
 - Dependency Injection/Spring
-- *Test Doubles (Mockito)**
+- Test Doubles (Mockito)*
 - Exceptions
+
+### Week 5
 - HTML
 - CSS
 - Bootstrap
+
+### Week 6
 - Spring Boot
 - MVC
 - Java Persistence API (Spring Data)
+
+### Week 7
 - Relational Databases and Design
 - Relational Databases and SQL
+
+### Week 8
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
+- Pair Programming (w/ Git/GitHub)
+
+### Week 9
+- Flex Week
+
+### Week 10-12
 - Final Project
 - Agile/Scrum
-- Git/GitHub
+
+* Denotes potential topics
 
 # Important Dates
 
