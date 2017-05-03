@@ -15,6 +15,7 @@
 - Conditionals
 - Strings and Text Processing
   - Regular Expressions*
+- Git and GitHub
 
 ### Week 2
 - Arrays
@@ -33,6 +34,7 @@
 - Dependency Injection/Spring
 - Test Doubles (Mockito)*
 - Exceptions
+- Build Automation with Gradle*
 
 ### Week 5
 - Spring Boot
