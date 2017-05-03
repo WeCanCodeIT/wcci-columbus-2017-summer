@@ -114,8 +114,9 @@ In addition to the required text, this and other We Can Code IT repositories wil
 
 ### Java
 
-- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/). Oracle Help Center.
-- [Java Tutorial](https://www.tutorialspoint.com/java/). tutorialspoint.
+- [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
+- [Programming by Doing](https://programmingbydoing.com/)
+- [tutorialspoint's Java Tutorial](https://www.tutorialspoint.com/java/)
 
 #### Spring
 
