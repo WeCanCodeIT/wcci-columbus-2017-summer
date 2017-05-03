@@ -9,106 +9,35 @@
 
 # Weekly Breakdown
 
-- Week 1
-  - The file system
-  - The Java ecosystem
-    - JDKs, JVMs, JREs -- that's a lot of letters
-  - basic building blocks
-    - classes: code blueprints
-    - objects: built from the blueprints
-    - methods: sending messages to objects
-      - constructors: methods that create objects
-    - variables: holding onto things
-  - primitives
-  - the essential JDK type: String: [tutorialspoint String tutorial](https://www.tutorialspoint.com/java/java_strings.htm)
-  - literals
-    - constants (the `final` keyword)
-  - essential operators
-    - assignment
-    - arithmetic
-    - logical
-  - conditionals
-    - comparison operators
-    - the ternary operator
-  - loops
-  - arrays
-  - IDEs
-    - Eclipse
-  - Git and GitHub
-- Week 2
-  - build automation
-    - Gradle
-  - TDD with JUnit
-    - Moreunit plugin for Eclipse
-    - FizzBuzz
-    - katas
-  - object oriented concepts
-    - abstraction
-    - encapsulation
-  - packages and visibility modifiers: organizing code
-- Week 3
-  - agile development / XP
-    - TDD
-    - pair programming
-  - Java collections
-    - `Collection`
-    - `List`
-    - `Set`
-    - `Map`
-  - polymorphism
-  - inheritance
-- Week 4
-  - Monday
-    - Intro A-PIE
-    - OOP
-  - Tuesday
-    - Continuation of OOP
-    - Interfaces
-      - `Iterator` and `Iterable`
-    - Nested Classes
-    - exceptions*
-    - file I/O  
-- Week 5
-  - HTML
-  - CSS
-  - Bootstrap
-- Week 6
-  - JavaScript
-  - jQuery
-  - AJAX
-  - JSON and RESTful APIs
-- Week 7
-  - Dependency injection
-  - Test doubles / Mockito*
-  - MVC
-    - Spring MVC
-  - Spring Boot
-- Week 8
-  - Relational databases
-    - tables
-    - relationships
-    - CRUD
- - Java Persistence API (JPA)
-    - Spring Data
-- Week 9
-  - Floating / extension topics
-  - Advanced practice
-- Weeks 10-12
-  - Scrum
-  - Final Project
-
-**floating/extension topics*
-
-## Additional Floating/Extension Topics
-- Other types
-  - BigDecimal
-  - Date
-    - JDK Dates
-    - Joda
-- Practices
-  - Behavior-Driven Development (BDD)
-    - Gherkin
-    - Spock
+- Variables, Operators, Expressions, Basic Types
+- Conditionals
+- Strings and Text Processing
+  - *Regular Expressions**
+- Arrays
+- Loops
+- Intro to OOP
+- Building Classes - Methods and Attributes
+- *Unit Testing/TDD (Junit)**
+- Collections Overview (*Iterables/Iterators)
+- Lists
+- Maps
+- Inheritance & Polymorphism
+- Dependency Injection/Spring
+- *Test Doubles (Mockito)**
+- Exceptions
+- HTML
+- CSS
+- Bootstrap
+- Spring Boot
+- MVC
+- Java Persistence API (Spring Data)
+- Relational Databases and Design
+- Relational Databases and SQL
+- JavaScript/jQuery
+- AJAX, JSON, and RESTful APIs
+- Final Project
+- Agile/Scrum
+- Git/GitHub
 
 # Important Dates
 
