@@ -60,7 +60,7 @@
 - Final Project
 - Agile/Scrum
 
-* Denotes potential topics
+`*` Denotes potential topics
 
 # Important Dates
 
