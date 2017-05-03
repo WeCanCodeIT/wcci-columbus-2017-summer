@@ -10,6 +10,7 @@
 # Weekly Breakdown
 
 ### Week 1
+- The File System
 - Variables, Operators, Expressions, Basic Types
 - Conditionals
 - Strings and Text Processing
