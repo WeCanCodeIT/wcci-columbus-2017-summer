@@ -34,18 +34,18 @@
 - Exceptions
 
 ### Week 5
+- Spring Boot
 - HTML
-- CSS
-- Bootstrap
+- MVC
 
 ### Week 6
-- Spring Boot
-- MVC
-- Java Persistence API (Spring Data)
+- CSS
+- Bootstrap
 
 ### Week 7
 - Relational Databases and Design
 - Relational Databases and SQL
+- Java Persistence API (Spring Data)
 
 ### Week 8
 - JavaScript/jQuery
@@ -106,9 +106,13 @@ In addition to the required text, this and other We Can Code IT repositories wil
 
 - Sierra, Kathy and Bates, Bert. [*Head First Java, Second Edition*](http://www.headfirstlabs.com/books/hfjava/). O'Reilly Media, 2005.
 
+## Suggested Textbook
+
+- Antonov, Alex. [Spring Boot Cookbook](https://www.packtpub.com/application-development/spring-boot-cookbook). Packt Publishing. 2015.
+
 ## Optional Textbooks
 
-{TODO need Spring-Boot/MVC/JPA book?}
+- Freeman, Eric et al. [Head First Design Patterns](http://www.headfirstlabs.com/books/hfdp/). O'Reilly Media. 2004.
 
 ## Online Resources
 
