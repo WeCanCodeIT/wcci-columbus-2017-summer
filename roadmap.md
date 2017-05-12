@@ -1,6 +1,6 @@
+
 |12-Week|Curriculum/Content|Career Services Content|Emotional/Experience Expectations|Career Services Homework|
-
-
+|-------|------------------|-----------------------|---------------------------------|------------------------|
 |**Week 1**|Java Fundamentals and Git Process|Arrive with 1st Draft of Resume first week of class - Career Services Overview - 10 second elevator speech/ Name Tent/Handshake*|Apprehensive, Nervous, Quiet, Excited|Tech Work & 1st Draft of Resume due Signature Line and Outbound Voice Mail Message, JibberJobber, Salary Research|
 |****|||||
 |**Week 2**|Object Oriented Programming|Career Services 1 hour sesssion - Resume Workshop - 10 second elevator speech*|2nd guess my decision "What was I thinking?" I can't do this. I don't belong here.||
