@@ -9,7 +9,7 @@
 
 # Weekly Breakdown
 
-### Week 1
+### Week 1 ([details](./week1/README.md))
 - The File System
 - Variables, Operators, Expressions, Basic Types
 - Conditionals
