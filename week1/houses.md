@@ -3,7 +3,7 @@
 ### Jerry Lawson
 Description: Lawson House is known for its strength and perseverance.
 
-Color: #f26722 (orange)
+Color: #f26722 (<span style="color: #f26722">orange</span>)
 
 ### Grace Hopper
 Description: Hopper House is known for its power and unflinching will to accomplish tasks and aspirations.
