@@ -70,13 +70,17 @@
 - {TODO ???}: last day of class
 - {TODO ???}: career day & graduation
 
-# Grading Policy
+# Attendance Policy
 
 Class is from 9:30am-3:30pm Monday-Friday, with the exception of holidays on which we will not be having class.
 
-You are required to attend a minimum of 90% of class time to be eligible for graduation. Please inform an instructor or TA if extenuating circumstances arise.
+You are required to attend a minimum of 90% of class time to be eligible for graduation. Attendance is measured *to the minute*—arriving late or leaving early will negatively impact your attendance. Please inform an instructor or TA if extenuating circumstances arise.
+
+# Grading Policy
 
 In order to pass the course, you must receive a grade of 70% or higher averaged over all the assignments. In addition, you must receive a grade of 70% or higher on the final project.
+
+## Attendance
 
 ## Projects
 
