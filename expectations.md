@@ -45,3 +45,4 @@
 - Be organized and prepared.
 - Be competent.
 - Be positive. Occasional flashes of exuberance.
+- Keep sarcasm to a minimum.
