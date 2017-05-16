@@ -33,6 +33,10 @@
 
 ## Wednesday, May 17th
 
+### Topics
+
+- Accepting User Input
+
 ## Thursday, May 18th
 
 ## Friday, May 19th
