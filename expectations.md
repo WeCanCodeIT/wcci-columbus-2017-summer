@@ -15,6 +15,8 @@
 - Accept constructive feedback.
 - Accountability for your own actions, responsibility for your learning.
 - Take advantage of tutoring (4:00 - 5:00 PM Tue Thurs).
+- Step out of your comfort zone.
+- Immerse yourself.
 
 ## Team
 
@@ -27,6 +29,7 @@
 - Hold your teammates accountable.
 - Motivate your teammates. Hold them to a high standard.
 - Be kind to your teammates.
+- No judgement, no shame.
 
 ## Instructors/Staff
 
