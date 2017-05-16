@@ -21,8 +21,12 @@
 
 ## Tuesday, May 16th
 
+### Topics
+
 - Basic Types and Variables
 - Operators and Expressions
+
+### Homework/References
 
 [Student Guide](./types-and-expressions.md)
 
