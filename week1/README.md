@@ -29,7 +29,7 @@
 
 ### Homework/References
 
-[Student Guide](./types-and-expressions.md)
+- [Student Guide](./types-and-expressions.md)
 
 ## Wednesday, May 17th
 
