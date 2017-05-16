@@ -18,6 +18,7 @@
 ### References
 
 - The Eclipse help system (Help->Help Contents) from within Eclipse
+- [Hello, World slides](https://wecancodeit.github.io/java-slides/fundamentals/hello-world/)
 
 ## Tuesday, May 16th
 
