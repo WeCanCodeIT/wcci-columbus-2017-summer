@@ -17,7 +17,7 @@
 
 ## Resources
 - [Conditionals slides](https://wecancodeit.github.io/java-slides/fundamentals/conditionals/)
-- [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-inputconditionals/)
+- [Reading Console Input slides](https://wecancodeit.github.io/java-slides/fundamentals/reading-console-input/)
 
 ## Practice Problems
 
