@@ -123,6 +123,9 @@ In addition to the required text, this and other We Can Code IT repositories wil
 
 ## Online Resources
 
+### General
+- [Lynda](https://www.lynda.com/) (This is a free resource if you have a library card. So get a library card.)
+
 ### Java
 
 - [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/)
