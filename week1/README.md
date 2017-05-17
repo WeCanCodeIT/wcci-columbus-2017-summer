@@ -35,7 +35,12 @@
 
 ### Topics
 
+- Conditionals
 - Accepting User Input
+
+### Homework/References
+
+- [Student Guide](./conditionals-and-user-input.md)
 
 ## Thursday, May 18th
 
