@@ -14,3 +14,6 @@
 - Students should know the syntax for if, if/else, and switch/case statements.
 - Students should know when to use an if/else versus a switch/case statement.
 - Students should be able to identify when a conditional statement is necessary to solve a problem
+
+## Resources & Practice Problems
+- [Conditionals slides](https://wecancodeit.github.io/java-slides/fundamentals/conditionals/)
