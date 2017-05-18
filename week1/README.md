@@ -58,5 +58,6 @@
 ### Resources
 
 - [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
+- [Git Bash commands cheat sheet (work in progress)](https://github.com/WeCanCodeIT/java-resources/tree/master/bash)
 
 ## Friday, May 19th
