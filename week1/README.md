@@ -57,6 +57,6 @@
 
 ### Resources
 
-- [Strings slides]()
+- [Strings slides](https://wecancodeit.github.io/java-slides/fundamentals/strings/)
 
 ## Friday, May 19th
