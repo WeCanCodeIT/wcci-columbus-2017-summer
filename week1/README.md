@@ -44,4 +44,19 @@
 
 ## Thursday, May 18th
 
+### Topics
+
+- Strings
+- Git and GitHub
+
+### Objectives
+
+- Learn how to manipulate text by using Strings
+- Learn how to explore classes in Eclipse
+- Learn the Git/GitHub basics
+
+### Resources
+
+- [Strings slides]()
+
 ## Friday, May 19th
