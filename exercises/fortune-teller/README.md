@@ -85,8 +85,8 @@ Your program should be able to process input whether a user enters capital or lo
 - [ ] Give the user the ability to quit the program by typing "Quit" (should not be case sensitive) at any point where the program is looking for user input. The program should print “Nobody likes a quitter...” before ending.
 
 	- *Tip*: To do this with the prompts that expect an integer, you will need to read in a `String`, check for "Quit", then use `Integer.parseInt(value)` to convert the user input to an `int`.
-	- *Tip*: You can call `System.exit(0);` to terminate your program immediately.
-	- *Another tip*: Rather than typing the same code over and over, you can create a method that calls `System.exit(0);` if the user typed "Quit", then call that method, passing it the user input. Its *signature* should look something like:
+	- *Also tip*: You can call `System.exit(0);` to terminate your program immediately.
+	- *Also also tip*: Rather than typing the same code over and over, you can create a method that calls `System.exit(0);` if the user typed "Quit", then call that method, passing it the user input. Its *signature* should look something like:
 
 	```java
 	public static void checkForQuit(String userInput)
