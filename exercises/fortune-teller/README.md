@@ -75,7 +75,8 @@ The user's bank balance at retirement will be based on the user's birth month. I
 
 Display the user's fortune in this format:
 
-	*[First Name]* *[Last Name]* will retire in *[# of years]* with *[bank balance]* in the bank, a vacation home in *[location]*, and travel by *[mode of transporation]*.
+	*[First Name]* *[Last Name]* will retire in *[# of years]* with *[bank balance]* in the bank,
+	a vacation home in *[location]*, and travel by *[mode of transporation]*.
 
 Your program should be able to process input whether a user enters capital or lowercase letters.
 
@@ -83,8 +84,13 @@ Your program should be able to process input whether a user enters capital or lo
 
 - [ ] Give the user the ability to quit the program by typing "Quit" (should not be case sensitive) at any point where the program is looking for user input. The program should print “Nobody likes a quitter...” before ending.
 
+	- *Tip*: To do this with the prompts that expect an integer, you will need to read in a `String`, check for "Quit", then use `Integer.parseInt(value)` to convert the user input to an `int`.
 	- *Tip*: You can call `System.exit(0);` to terminate your program immediately.
-	- *Another tip*: Rather than typing the same code over and over, you can create a method to call that calls `System.exit(0);` if the user typed "Quit".
+	- *Another tip*: Rather than typing the same code over and over, you can create a method that calls `System.exit(0);` if the user typed "Quit", then call that method, passing it the user input. Its *signature* should look something like:
+
+	```java
+	public static void checkForQuit(String userInput)
+	```
 
 - [ ] Research `while` (page 115 in the *Head Start* book) or `do/while` loops and use them to check whether a user typed "Help" for favorite color, printing the list of colors each time the user types "Help".
 
