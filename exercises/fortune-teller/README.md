@@ -21,8 +21,25 @@ Develop a console application that will tell the user’s fortune based on data 
 - [ ] Ask the user for the user's number of siblings.
 
 ### Part 2
+
+For each of the below, you will select your own value for each condition. Be creative!
+
+- [ ] Retirement Years
+
+The user's number of years until retirement will be based on whether the user's age is odd or even.
+
+	- Example (don't steal ours!)
+
+|If the user's age is…	|then…
+|-----------------------|----------------------------------
+|odd					|the user will retire in *14* years
+|even					|the user will retire in *12* years
+
 - [ ] If the user’s age is an odd number, then the user will retire in ____ years if the user's age is odd, or ___ years if user's age is even.
+
+- [ ] Vacation Home Location
 - [ ] If the user’s number of siblings is zero, then they will have a vacation home in ____ (location), if one then they will have a vacation home in ____ (location), if two then they will have a vacation home in ____ (location), if three then they will have a vacation home in ____ (location), or if more than three then they will have a vacation home in ____ (location). If the user enters anything other than a number greater than or equal to 0, they should get a bad vacation home!
+
 - [ ] Depending on which ROYGBIV color is the user’s favorite, they will have a specific mode of transportation (i.e. car, boat, plane, etc.).
 - [ ] If the user’s birth month is 1-4, they will have $____ in the bank; if the user's birth month is 5-8, they will have $____ in the bank; and if it is 9-12, then they will have $____ in the bank. If the user enters something other than 1-12 as their birth month, they will have $0.00 in the bank.
 
