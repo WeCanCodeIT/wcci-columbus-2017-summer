@@ -64,4 +64,4 @@
 
 Weekly Graded Exercise: [Fortune-Teller](../exercises/fortune-teller/)
 
-Due Monday, May 22, 9:30 AM (Link TBD)
+Due Monday, May 22, 9:30 AM: [Submit your name and repository URL here](https://goo.gl/forms/RaUf4mnPEUoi6kp23)
