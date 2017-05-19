@@ -62,6 +62,6 @@
 
 ## Friday, May 19th
 
-Weekly Graded Exercise: (Fortune-Teller)[../exercises/fortune-teller/]
+Weekly Graded Exercise: [Fortune-Teller](../exercises/fortune-teller/)
 
 Due Monday, May 22, 9:30 AM (Link TBD)
