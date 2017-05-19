@@ -88,4 +88,11 @@ Your program should be able to process input whether a user enters capital or lo
 
 - [ ] Research `while` (page 115 in the *Head Start* book) or `do/while` loops and use them to check whether a user typed "Help" for favorite color, printing the list of colors each time the user types "Help".
 
-<div class="highlight highlight-source-sh"><pre>foo</pre></div>
+	```bash
+	What is your favorite ROYGBIV color?
+	Help
+	The ROYGBIV colors are red, orange, yellow, green, blue, indigo, violet.
+	Help
+	The ROYGBIV colors are red, orange, yellow, green, blue, indigo, violet.
+	Blue
+	```
