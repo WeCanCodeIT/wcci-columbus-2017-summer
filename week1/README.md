@@ -61,3 +61,7 @@
 - [Git Bash commands cheat sheet (work in progress)](https://github.com/WeCanCodeIT/java-resources/tree/master/bash)
 
 ## Friday, May 19th
+
+Weekly Graded Exercise: (Fortune-Teller)[../exercises/fortune-teller/]
+
+Due Monday, May 22, 9:30 AM (Link TBD)
