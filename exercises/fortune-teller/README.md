@@ -22,31 +22,72 @@ Develop a console application that will tell the user’s fortune based on data 
 
 ### Part 2
 
-For each of the below, you will select your own value for each condition. Be creative!
+For each of the below, you will select your own value for each condition. The table will give the conditions and an example for each. Don't steal our examples—be creative!
 
-- [ ] Retirement Years
+#### Retirement Years
 
 The user's number of years until retirement will be based on whether the user's age is odd or even.
 
-	- Example (don't steal ours!)
+|*(condition)* If the user's age is…	|*(example)* then the user will retire in…
+|-----------------------|-----------------------------------------
+|odd					|*14* years
+|even					|*12* years
 
-|If the user's age is…	|then…
-|-----------------------|----------------------------------
-|odd					|the user will retire in *14* years
-|even					|the user will retire in *12* years
+#### Vacation Home Location
 
-- [ ] If the user’s age is an odd number, then the user will retire in ____ years if the user's age is odd, or ___ years if user's age is even.
+The location of the user's vacation home will be based on how many siblings the user has. If the user enters a number less than zero, give the user a *bad* location!
 
-- [ ] Vacation Home Location
-- [ ] If the user’s number of siblings is zero, then they will have a vacation home in ____ (location), if one then they will have a vacation home in ____ (location), if two then they will have a vacation home in ____ (location), if three then they will have a vacation home in ____ (location), or if more than three then they will have a vacation home in ____ (location). If the user enters anything other than a number greater than or equal to 0, they should get a bad vacation home!
+|*(condition)* If the user's number of siblings is…	|*(example)* then the user's vacation home will be in…
+|---------------------------------------------------|-----------------------------------------------------
+|0													|Boca Raton, FL
+|1													|Nassau, Bahamas
+|2													|Ponta Negra,Brazil
+|3													|Portland, Oregon
+|greater than three									|Baton Rouge, LA
+|less than zero										|Chernobyl, Ukraine
 
-- [ ] Depending on which ROYGBIV color is the user’s favorite, they will have a specific mode of transportation (i.e. car, boat, plane, etc.).
-- [ ] If the user’s birth month is 1-4, they will have $____ in the bank; if the user's birth month is 5-8, they will have $____ in the bank; and if it is 9-12, then they will have $____ in the bank. If the user enters something other than 1-12 as their birth month, they will have $0.00 in the bank.
+#### Mode of Transporation
+
+The user's mode of transportation will determined by the user's favorite color.
+
+|*(condition)* If the user's favorite color is…	|*(example)* then the user's mode of transportation will be…
+|-------|--------------
+|red 	|Maserati
+|orange	|stallion
+|yellow	|chariot
+|green	|taxi
+|blue	|rickshaw
+|indigo	|motor scooter
+|violet	|flying saucer
+
+#### Bank Balance
+
+The user's bank balance at retirement will be based on the user's birth month. If the user enters something other than 1-12 for birth month, the user's balance will be $0.00.
+
+|*(condition)* If the user's birth month is…|*(example)* The user's balance will be…
+|---------------|--------------
+|1-4			|$256,000.76
+|5-8			|$3,687,105.42
+|9-12			|$86.23
+|anything else	|$0.00
 
 ### Part 3
-- [ ] The user’s fortune should be thus:
-  - [ ] [First Name] [Last Name] will retire in [# of Years] with [Amount of Money] in the bank, a vacation home in [Location] and a [Mode of Transportation].
-- [ ] Program should be able to handle whether or not a user inputs capital or lowercase letters.
 
-## Stretch Tasks:
-- [ ] Give the user the ability to quit the program at any point where the program is looking for user input, by typing “Quit” (should not be case sensitive). The program should print “Nobody likes a quitter...” before ending.
+Display the user's fortune in this format:
+
+	*[First Name]* *[Last Name]* will retire in *[# of years]* with *[bank balance]* in the bank, a vacation home in *[location]*, and travel by *[mode of transporation]*.
+
+Your program should be able to process input whether a user enters capital or lowercase letters.
+
+## Stretch Tasks (Optional)
+
+- [ ] Give the user the ability to quit the program by typing "Quit" (should not be case sensitive) at any point where the program is looking for user input. The program should print “Nobody likes a quitter...” before ending.
+
+	- *Tip*: You can call `System.exit(0);` to terminate your program immediately.
+	- *Another tip*: Rather than typing the same code over and over, you can create a method to call that calls `System.exit(0);` if the user typed "Quit".
+
+- [ ] Research `while` (page 115 in the *Head Start* book) or `do/while` loops and use them to check whether a user typed "Help" for favorite color, printing the list of colors each time the user types "Help".
+
+```java
+foo
+```
