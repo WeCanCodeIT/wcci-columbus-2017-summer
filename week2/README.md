@@ -2,8 +2,6 @@
 
 ## Monday, May 22
 
-### Topics
-
 - Arrays: [Student Guide](./arrays.md)
 
 ## Tuesday, May 23

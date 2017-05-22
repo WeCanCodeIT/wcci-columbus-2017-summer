@@ -17,7 +17,7 @@
   - Regular Expressions*
 - Git and GitHub
 
-### Week 2
+### Week 2 ([details](./week2/README.md))
 - Arrays
 - Loops
 - Intro to OOP

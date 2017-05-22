@@ -1,7 +1,9 @@
 # Arrays
 
 ## Topics
+
 #### Arrays
+
 - What is an array?
 - When should you use an array?
 - Why should you use an array?
@@ -11,6 +13,7 @@
 - How is the length of an array determined?
 
 ## Goals
+
 - Students should understand why and how an array is used.
 - Students should understand the syntax for creating and using arrays.
 	- Declaring an array.
