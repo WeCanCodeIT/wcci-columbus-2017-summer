@@ -6,6 +6,8 @@
 
 ## Tuesday, May 23
 
+- Loops, Part 1: [Student Guide](./loops-01.md)
+
 ## Wednesday, May 24
 
 ## Thursday, May 25
