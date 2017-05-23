@@ -2,7 +2,7 @@
 
 ## Topics
 
-#### Arrays
+### Arrays
 
 - What is an array?
 - When should you use an array?
