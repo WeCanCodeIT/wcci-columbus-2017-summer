@@ -10,6 +10,8 @@
 
 ## Wednesday, May 24
 
+- Continue from Tuesday
+
 ## Thursday, May 25
 
 ## Friday, May 26
