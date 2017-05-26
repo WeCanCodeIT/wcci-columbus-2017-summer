@@ -29,6 +29,7 @@
 - Lists
 - Maps
 - Inheritance & Polymorphism
+- Encapsulation
 
 ### Week 4
 - Dependency Injection/Spring
