@@ -80,6 +80,10 @@ Display the user's fortune in this format:
 
 Your program should be able to process input whether a user enters capital or lowercase letters.
 
+## Grading
+
+Find the rubric [here](./rubric.md).
+
 ## Stretch Tasks (Optional)
 
 - [ ] Give the user the ability to quit the program by typing "Quit" (should not be case sensitive) at any point where the program is looking for user input. The program should print “Nobody likes a quitter...” before ending.
