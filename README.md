@@ -9,7 +9,7 @@
 
 # Weekly Breakdown
 
-### Week 1 ([details](./week1/README.md))
+### Week 1 ([details](./week1))
 - The File System
 - Variables, Operators, Expressions, Basic Types
 - Conditionals
@@ -17,14 +17,14 @@
   - Regular Expressions*
 - Git and GitHub
 
-### Week 2 ([details](./week2/README.md))
+### Week 2 ([details](./week2))
 - Arrays
 - Loops
 - Intro to OOP
 - Building Classes - Methods and Attributes
 - Unit Testing/TDD (Junit)*
 
-### Week 3
+### Week 3 ([details](./week3))
 - Collections Overview (*Iterables/Iterators)
 - Lists
 - Maps
