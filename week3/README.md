@@ -15,7 +15,7 @@
 
 ### Resources
 
-- Slides: [ArrayLists]()
+- Slides: [ArrayLists](https://wecancodeit.github.io/java-slides/objects/arraylists/)
 
 ## Wednesday, May 31
 
