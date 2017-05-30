@@ -31,6 +31,6 @@
 
 Weekly Graded Exercise: [Virtual Pet](../exercises/virtual-pet/)
 
-Due Tuesday, May 30, 9:30 AM: [Submission Link TBD]
+Due Tuesday, May 30, 9:30 AM: [Submission Link](https://goo.gl/forms/Dp5jNCawPJtp0H7x2)
 
 Enjoy the holiday weekend! (Remember to write some code.)
