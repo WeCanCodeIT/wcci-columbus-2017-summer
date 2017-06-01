@@ -19,7 +19,26 @@
 
 ## Wednesday, May 31
 
+### Topics
+
+- More JCF
+	- Introducing Sets
+	- Introducing Maps
+	- Declaring Lists
+- The diamond operator
+- Constructors
+
 ## Thursday, June 1
+
+### Topics
+
+- Methods review
+- Constructors
+- Maps
+
+### Resources
+
+- Slides: [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
 
 ## Friday, June 2
 
