@@ -43,6 +43,6 @@
 
 ## Friday, June 2
 
-Weekly Graded Exercise: TBD
+Weekly Graded Exercise: [Virtual Pet Shelter](../exercises/virtual-pet-shelter)
 
 Due Mone, June 5, 9:30 AM: [Submission Link TBD]
