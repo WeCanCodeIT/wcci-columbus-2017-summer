@@ -80,7 +80,8 @@ Ok, you play with Tommy.
 
 - [ ] include appropriate instance variable(s) to store the pets who reside at the shelter
 - [ ] include methods that:
-	- [ ] list the names, descriptions, and needs of shelter residents
+	- [ ] return a `Collection` of all of the pets in the shelter
+	- [ ] return a specific `VirtualPet` given its name
 	- [ ] allow intake of a homeless pet
 	- [ ] allow adoption of a homeless pet
 	- [ ] feed all of the pets in the shelter
