@@ -47,12 +47,13 @@ What would you like to do next?
 ```bash
 Ok, so you'd like to play with a pet. Please choose one:
 
-1. Joey looks like he's seen better days.
-2. Johnny is a bit nervous.
-3. Dee Dee probably didn't start with that many legs.
-4. Tommy smells like Sarah McLachlan.
+[Joey] looks like he's seen better days.
+[Johnny] is a bit nervous.
+[Dee Dee] probably didn't start with that many legs.
+[Tommy] smells like Sarah McLachlan.
 
-4
+Which pet would you like to play with?
+Tommy
 
 Ok, you play with Tommy.
 ```

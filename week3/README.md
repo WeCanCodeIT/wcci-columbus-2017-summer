@@ -38,7 +38,9 @@
 
 ### Resources
 
-- Slides: [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
+- Slides:
+	- [Constructors](https://wecancodeit.github.io/java-slides/objects/constructors/)
+	- [Maps](https://wecancodeit.github.io/java-slides/objects/maps/)
 - [Map Exercises](./map-exercises.md)
 
 ## Friday, June 2
