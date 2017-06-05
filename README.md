@@ -31,7 +31,7 @@
 - Inheritance & Polymorphism
 - Encapsulation
 
-### Week 4
+### Week 4 ([details](./week4))
 - Dependency Injection/Spring
 - Test Doubles (Mockito)*
 - Exceptions
