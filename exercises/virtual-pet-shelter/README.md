@@ -50,7 +50,7 @@ Ok, so you'd like to play with a pet. Please choose one:
 [Joey] looks like he's seen better days.
 [Johnny] is a bit nervous.
 [Dee Dee] probably didn't start with that many legs.
-[Tommy] smells like Sarah McLachlan.
+[Tommy] smells like a Stargazer lily fresh with morning dew.
 
 Which pet would you like to play with?
 Tommy
