@@ -65,6 +65,36 @@ These are a bit open-ended, but that's ok.
 
 ## Thursday, June 8
 
+### Topics
+
+- Intro to Agile Development
+	- Clean Code
+	- The Agile Manifesto and Principles
+	- Extreme Programming (XP)
+
+- Intro to Unit Testing
+	- Test Driven Design (TDD)
+	- JUnit 4
+- Katas
+
+
+### References
+
+- [Clean Coders](https://cleancoders.com)
+- [Manifesto for Agile Software Development](http://agilemanifesto.org/)
+- [Principles behind the Agile Manifesto](http://agilemanifesto.org/principles.html)
+- [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
+- JUnit 4
+	- [Getting Started](https://github.com/junit-team/junit4/wiki/Getting-started)
+	- [wiki](https://github.com/junit-team/junit4/wiki)
+- Katas
+	- [CodeKata](http://codekata.com/)
+	- [codekatas.org](http://www.codekatas.org/) (videos)
+	- [Coding Dojo Kata Catalogue](http://codingdojo.org/KataCatalogue/)
+	- [CodeWars](https://www.codewars.com/)
+	- [CodeFights](https://codefights.com/) (no fighting involved!)
+	- [LMGTFY: code katas](http://lmgtfy.com/?q=code+katas) :stuck_out_tongue_winking_eye:
+	
 ## Friday, June 9
 
 Weekly Graded Exercise: [TBD]
