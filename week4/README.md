@@ -97,6 +97,6 @@ These are a bit open-ended, but that's ok.
 	
 ## Friday, June 9
 
-Weekly Graded Exercise: [TBD]
+Weekly Graded Exercise: [Virtual Pets AMOK!](../exercises/virtual-pets-amok)
 
 Due Mon, June 12, 9:30 AM: [Submission Link TBD]
