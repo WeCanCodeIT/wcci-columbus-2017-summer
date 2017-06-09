@@ -27,7 +27,7 @@ We're introducing a health attribute for pets. Organic pets have their health de
 ### VirtualPet class and related subclasses/interfaces
 
 - [ ] create a model that allows for dogs and cats, either of which may be robotic
-- introduce an attribute (instance variable) representing overall health that is updated as a result of other attributes moving in a negative or positive direction, influencing happiness
+- [ ] introduce an attribute (instance variable) representing overall health that is updated as a result of other attributes moving in a negative or positive direction, influencing happiness
 - introduce methods that allow for:
 	- [ ] oiling robotic pets
 	- [ ] walking dogs, decreasing the likelihood that organic dogs will soil their cages, while increasing happiness in all dogs
@@ -45,7 +45,7 @@ We're introducing a health attribute for pets. Organic pets have their health de
 	- [ ] cleaning dog cages
 	- [ ] emptying the litterbox
 
-- modify existing methods to only feed/water pets that are *not* robotic
+- [ ] modify existing methods to only feed/water pets that are *not* robotic
 
 ### VirtualPetShelterApp class
 
