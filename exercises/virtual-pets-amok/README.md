@@ -10,6 +10,14 @@ Cats hang out in a communal area and use a common litter box. Don't even bother 
 
 We're introducing a health attribute for pets. Organic pets have their health decreased by unclean circumstances, and by thirst or hunger growing too high. Robotic pets only lose health if they're not oiled regularly. All pets lose health if their happiness drops too low.
 
+## Setup
+
+You can copy your code from the previous project to use as a starter, or start from scratch.
+
+- [ ] Create a Java project in Eclipse named `virtual-pets-amok`.
+- [ ] Create a README.md file in your project folder to describe what you've done with your project. No fancy formatting is necessary. Just separate paragraphs with an empty line. (If you'd like to learn more about Markdown formatting, check out the [Github Markdown Guide](https://guides.github.com/features/mastering-markdown/).)
+- [ ] Create a GitHub repository also named `virtual-pets-amok` and set it up so that you can push your code there from your Eclipse project. Do this *now*. It's the least fun part, so just get it out of the way.
+
 ## Required Tasks
 
 ### General
@@ -26,6 +34,8 @@ We're introducing a health attribute for pets. Organic pets have their health de
 
 ### VirtualPet class and related subclasses/interfaces
 
+In addition to the last project's requirements:
+
 - [ ] create a model that allows for dogs and cats, either of which may be robotic
 - [ ] introduce an attribute (instance variable) representing overall health that is updated as a result of other attributes moving in a negative or positive direction, influencing happiness
 - introduce methods that allow for:
@@ -40,6 +50,8 @@ We're introducing a health attribute for pets. Organic pets have their health de
 
 ### VirtualPetShelter class
 
+In addition to the last project's requirements:
+
 - introduce methods that allow for:
 	- [ ] oiling/maintaining all robotic pets
 	- [ ] cleaning dog cages
@@ -48,6 +60,8 @@ We're introducing a health attribute for pets. Organic pets have their health de
 - [ ] modify existing methods to only feed/water pets that are *not* robotic
 
 ### VirtualPetShelterApp class
+
+In addition to the last project's requirements:
 
 - add options to:
 	- [ ] walk all dogs
