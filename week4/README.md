@@ -100,6 +100,4 @@ These are a bit open-ended, but that's ok.
 
 Weekly Graded Exercise: [Virtual Pets AMOK!](../exercises/virtual-pets-amok)
 
-Project Submission Link: [Submit](https://goo.gl/forms/fQGRHFImY0GV8vGu1)
-
-Due Mon, June 12, 9:30 AM: [Submission Link TBD]
+Due Mon, June 12, 9:30 AM: [Submit](https://goo.gl/forms/fQGRHFImY0GV8vGu1)
