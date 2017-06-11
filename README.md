@@ -68,6 +68,7 @@
 # Important Dates
 
 - May 29: Memorial Day (no class)
+- July 3 and 4: Fourth of July (no class)
 - {TODO ???}: last day of class
 - {TODO ???}: career day & graduation
 
