@@ -126,6 +126,7 @@ In addition to the required text, this and other We Can Code IT repositories wil
 ## Online Resources
 
 ### General
+- [Slides from Class](./slides.md)
 - [Lynda](https://www.lynda.com/) (This is a free resource if you have a library card. So get a library card.)
 
 ### Java
