@@ -37,7 +37,7 @@
 - Exceptions
 - Build Automation with Gradle*
 
-### Week 5
+### Week 5 ([details](./week5))
 - Spring Boot
 - HTML
 - MVC
