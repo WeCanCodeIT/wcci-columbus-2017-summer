@@ -68,6 +68,7 @@
 # Important Dates
 
 - May 29: Memorial Day (no class)
+- July 3 and 4: Fourth of July (no class)
 - {TODO ???}: last day of class
 - {TODO ???}: career day & graduation
 
@@ -125,6 +126,7 @@ In addition to the required text, this and other We Can Code IT repositories wil
 ## Online Resources
 
 ### General
+- [Slides from Class](./slides.md)
 - [Lynda](https://www.lynda.com/) (This is a free resource if you have a library card. So get a library card.)
 
 ### Java
