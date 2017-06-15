@@ -13,6 +13,8 @@
 
 ## Thursday, June 15
 
+[W3C CSS Examples](https://www.w3schools.com/css/css_examples.asp)
+
 ## Friday, June 16
 
 Weekly Graded Exercise: [TBD]()
