@@ -44,6 +44,6 @@
 
 ## Friday, June 16
 
-Weekly Graded Exercise: [TBD]()
+Weekly Graded Exercise: [Professional Portfolio](../exercises/professional-portfolio)
 
 Due Mon, June 12, 9:30 AM: [TBD]()
