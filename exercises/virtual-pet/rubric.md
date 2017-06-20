@@ -10,4 +10,4 @@ third VirtualPet method|8
 implement game loop|12
 ask for user input|9
 write output to the console|9
-Style/formatting/code quality|10
+style/formatting/code quality|10
