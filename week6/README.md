@@ -4,8 +4,15 @@
 
 ### Topics
 
-- CSS flexbox
+- CSS Flexbox
 - Bootstrap
+
+### References
+
+- Mozilla Developer Network:
+	- [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+	- [Using flexbox to lay out web applications](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_flexbox_to_lay_out_web_applications)
+- [Flexbox Zombies](http://flexboxzombies.com)
 
 ### Exercises
 
@@ -13,3 +20,17 @@
 - [Never Go Out](../exercises/never-go-out/)
 - [Start Me Up](../exercises/start-me-up/)
 - [Life Is Strange](../exercises/bootstrap-life-is-strange/)
+
+## Tuesday, June 20
+
+### Topics
+
+- Bootstrap
+- CSS Grid Layout
+
+### References
+
+- From Bootstrap's website:
+	- [Bootstrap: Getting Started](http://getbootstrap.com/getting-started/)
+	- [Bootstrap: Grid system](http://getbootstrap.com/css/#grid)
+- [w3schools Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
