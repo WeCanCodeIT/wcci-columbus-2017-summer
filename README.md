@@ -42,7 +42,7 @@
 - HTML
 - MVC
 
-### Week 6
+### Week 6 ([details](./week6))
 - CSS
 - Bootstrap
 
