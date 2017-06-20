@@ -78,6 +78,10 @@ You feed Horace.
     - [ ] asks for user input.
     - [ ] writes output to the console.
 
+### Grading
+
+Here is the [rubric](./rubric.md).
+
 ### Stretch Tasks
 
 - [ ] Give the pet the ability to take care of some of its own needs.
