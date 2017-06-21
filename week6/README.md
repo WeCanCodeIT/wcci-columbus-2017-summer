@@ -34,3 +34,13 @@
 	- [Bootstrap: Getting Started](http://getbootstrap.com/getting-started/)
 	- [Bootstrap: Grid system](http://getbootstrap.com/css/#grid)
 - [w3schools Bootstrap 3 Tutorial](https://www.w3schools.com/bootstrap/)
+
+## Wednesday, June 21
+
+### Topics
+
+- Intro to JavaScript
+
+### References
+
+- [Java vs JavaScript slides](https://wecancodeit.github.io/java-slides/web/java-vs-javascript/)
