@@ -41,7 +41,10 @@
 
 - Intro to JavaScript
 
-### References
+### References / Resources
 
 - [Java vs JavaScript slides](https://wecancodeit.github.io/java-slides/web/java-vs-javascript/)
 - [Master the JavaScript Interview: What's the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
+- Online editors
+	- [CodePen](https://codepen.io)
+	- [JS Bin](https://jsbin.com)
