@@ -56,3 +56,4 @@
 ### Exercises
 - [A first splash into JavaScript @ MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
 - [Javascript30: 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+- [Khan Academy: Computer Programming](https://www.khanacademy.org/computing/computer-programming/programming)
