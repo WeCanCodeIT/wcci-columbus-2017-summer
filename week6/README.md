@@ -57,3 +57,24 @@
 - [A first splash into JavaScript @ MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash)
 - [Javascript30: 30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 - [Khan Academy: Computer Programming](https://www.khanacademy.org/computing/computer-programming/programming)
+
+## Thursday, June 22
+
+### Topics
+
+- Unit Testing in JavaScript with Jasmine
+- DOM manipulation
+
+### References
+
+- [Jasmine Introduction](https://jasmine.github.io/2.0/introduction.html)
+- [jQuery](https://jquery.com/)
+	- [Try jQuery (jQuery Tutorial)](http://try.jquery.com/)
+	- [jQuery Learning Center](http://learn.jquery.com/)
+	- [jQuery API documentation](http://api.jquery.com/)
+
+## Friday, June 23
+
+Weekly Graded Exercise: [Reviews Site](../exercises/reviews-site)
+
+Due Mon, June 26, 9:30 AM: [TBD]()
