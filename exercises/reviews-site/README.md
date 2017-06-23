@@ -11,7 +11,7 @@ Create a Spring Boot + MVC app that displays a list of reviews, allowing us to c
 ### Required Tasks
 
 - [ ] Create/configure a Spring Boot/MVC application.
-- [ ] Create a `Review` class for the content of reviews. Its attributes should include:
+- [ ] Create a `Review` class for the content of reviews. Its instance variables (attributes) should include:
 	- [ ] id (make this of type `long` -- you'll find out why later) -- just use arbitrary, unique numbers for these ids
 	- [ ] title
 	- [ ] image url
@@ -24,7 +24,7 @@ Create a Spring Boot + MVC app that displays a list of reviews, allowing us to c
 	- [ ] *accessor* (`get*` methods) that return information about review attributes. These will allow your Thymeleaf templates to display information about reviews.
 - [ ] Create a `ReviewRepository` class
 	- [ ] This class should be a `@Component` so that it can be injected into `ReviewsController`.
-	- [ ] It should have a constructor that creates your `Review` instances and populates an attribute of type `Map<Long, Review>` that stores your reviews.
+	- [ ] It should have a constructor that creates your `Review` instances and populates an instance variable of type `Map<Long, Review>` that stores your reviews, using each review's id as the map key.
 	- [ ] It should have a method with the signature `public Collection<Review> findAll()` that returns all of your reviews.
 	- [ ] It should have a method with the signature `public Review findOne(Long id)` that returns the review with the specified id.
 - [ ] Create a `ReviewsController` class.
