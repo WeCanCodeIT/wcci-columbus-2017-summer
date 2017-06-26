@@ -77,4 +77,4 @@
 
 Weekly Graded Exercise: [Reviews Site](../exercises/reviews-site)
 
-Due Mon, June 26, 9:30 AM: [TBD]()
+Due Mon, June 26, 9:30 AM: [Submission Link](https://goo.gl/forms/0I9EJpSWTnX1mbcA2)
