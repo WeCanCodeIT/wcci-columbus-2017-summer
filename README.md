@@ -141,6 +141,12 @@ In addition to the required text, this and other We Can Code IT repositories wil
 - [Spring Boot project](https://projects.spring.io/spring-boot/). Spring.io.
 - [Spring Boot v1.5.3 Documentation](http://docs.spring.io/spring-boot/docs/1.5.3.RELEASE/reference/htmlsingle/). Spring.io.
 
+#### JPA
+
+- [Java Persistence](https://en.wikibooks.org/wiki/Java_Persistence) book on wikibooks
+	
+	There is a PDF version available at the above link which is easier to search/reference.
+
 ### Git
 
 - [GitHub Guides](https://guides.github.com/). github.
