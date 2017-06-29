@@ -46,17 +46,17 @@
 - CSS
 - Bootstrap
 
-### Week 7
+### Week 7 ([details](./week7))
 - Relational Databases and Design
 - Relational Databases and SQL
 - Java Persistence API (Spring Data)
 
-### Week 8
+### Week 8 ([details](./week8))
 - JavaScript/jQuery
 - AJAX, JSON, and RESTful APIs
 - Pair Programming (w/ Git/GitHub)
 
-### Week 9
+### Week 9 ([details](./week9))
 - Flex Week
 
 ### Week 10-12
