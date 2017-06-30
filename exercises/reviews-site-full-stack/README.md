@@ -31,4 +31,14 @@ Feel free to use appropriate class names other than `Review` and `Category`, but
 
 ### Stretch Tasks
 
-- 
+#### Tags
+
+- [ ] Create a `Tag` entity.
+- [ ] Update `Review` so that it can have tags associated with it. (One review, many tags.)
+- [ ] Display tags on the review details page.
+- [ ] Create a page that displays links to all of the reviews associated with a given tag.
+
+##### Stretchier
+
+- [ ] Style your tags list template as a *tag cloud*, making tags which appear more often larger and/or bolder and those that appear less often smaller and/or lower weight.
+- [ ] Allow creation and deletion of tags from a review using `<form>` and `<button>` elements along with the appropriate controller method(s).
