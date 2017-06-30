@@ -41,6 +41,6 @@
 
 ## Friday, June 30
 
-Weekly Graded Exercise: [Full Stack Reviews Site](#) (link TBD)
+Weekly Graded Exercise: [Full Stack Reviews Site](../exercises/reviews-site-full-stack/)
 
 Due Wed, July 5th, 9:30 AM: [Submission Link](#) (link TBD)
