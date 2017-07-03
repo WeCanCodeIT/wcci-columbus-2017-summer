@@ -42,3 +42,15 @@ Feel free to use appropriate class names other than `Review` and `Category`, but
 
 - [ ] Style your tags list template as a *tag cloud*, making tags which appear more often larger and/or bolder and those that appear less often smaller and/or lower weight.
 - [ ] Allow creation and deletion of tags from a review using `<form>` and `<button>` elements along with the appropriate controller method(s).
+
+### Tips
+
+#### Mapping out URLs, Model attributes, view template names, etc
+
+It is good practice to map things out and think them through, using plural and singular names appropriately, or you'll likely be well confused.
+
+Your names, etc will be different, but hopefully this helps with some of the confusion I've seen around naming and what is in the model for a specific view. I'll append model and view to names to help clarify, though we usually wouldn't do this in the wild.
+
+|Page Intent	|URL (mapped via @RequestMapping)	|Model Attribute	|Description of model attribute|View Template name|View will display|
+|-----------|--------------------------------		|---------------|------------------------------|------------------|--------------------|
+|Categories List|/categories				|"categoriesModel"	|
